@@ -4,7 +4,7 @@ Se pueden crear ficheros directamente desde GitHub y también se pueden subir de
 
 ## Cloning repository in local:
 Terminal:
-> directory> git clone "repository URL from GitHub"
+> PC directory> git clone "repository URL from GitHub"
 
 ## Git words:
 > **...init**: crear/reiniciar repositorio
