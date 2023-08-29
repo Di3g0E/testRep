@@ -17,7 +17,7 @@
 > **..._fetch**: descarga los cambios del branch de GitHub **pero no** los une \
 > **..._merge "_nombre rama actualizada_"**: une la rama en la que nos encontramos con la indicada
 
-> **..._add\_ .** : añadir contenido a la rama \
+> **..._add\_" . "** : añadir contenido a la rama \
 > **..._commit\_-m\_"_comentario_"**: registrar los cambios añadidos en el repositorio
 
 > **..._log**: muestra los registros del commit detallados \
