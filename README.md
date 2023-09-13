@@ -5,7 +5,7 @@
 - Si en un repositorio pulsas " . " se habre VS Code en el navegador desde el que puedes modificar el repositorio
 
 ## Git words: (git...)
-> **..._pull**: descarga el contenido del repositorio en local (ordenador)
+> **..._pull**: descarga el contenido del repositorio en local (ordenador) \
 > **..._push**: sube el contenido de un repositorio local a un repositorio remoto
 
 > **..._init**: crear/reiniciar repositorio _(es necesario crear una carpeta en local para crear el repositorio)_ \
