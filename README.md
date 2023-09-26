@@ -2,7 +2,7 @@
 ## Editing the files:
 - Se pueden crear ficheros directamente desde GitHub y también se pueden subir desde la carpeta local
 - Para crear carpetas en los repositorios hay que crear un nuevo "file" y en el nombre escribir: **"nombre carpeta" + "nombre file"*
-- Si en un repositorio pulsas " . " se habre VS Code en el navegador desde el que puedes modificar el repositorio
+- **Si en un repositorio pulsas " . " se habre VS Code en el navegador desde el que puedes modificar el repositorio**
 
 ## Git words: (git...)
 > **..._pull**: descarga el contenido del repositorio en local (ordenador) \
